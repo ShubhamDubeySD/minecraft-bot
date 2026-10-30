@@ -1,0 +1,8 @@
+{
+  "name": "bedrock-waker",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "bedrock-protocol": "latest"
+  }
+}
